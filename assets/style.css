@@ -1,0 +1,36 @@
+body, *{
+    margin:0 auto;
+    padding-top: 10px;
+    max-width: 800px;
+    font-family:'Iosevka Web';
+    font-weight:300;
+    font-style:normal;
+    font-size: 16;
+}
+@media only screen and (max-width: 1200px) {
+    max-width:90%;
+}
+a{
+    color:black;
+}
+ul{
+    list-style-type:none;
+    margin: 0; padding: 0;
+}
+
+h1, h2>a{
+    font-weight: 700;
+    color: #D82D89;
+}
+
+.authors{
+    color:darkgrey;
+}
+img{
+    width:100px;
+    height:auto;
+    display:inline-block;
+}
+.images a{
+    text-decoration: none;
+}
