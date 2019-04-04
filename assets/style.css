@@ -18,6 +18,9 @@ ul{
     margin: 0; padding: 0;
 }
 
+h1{
+    font-size: 26px;
+}
 h1, h2>a{
     font-weight: 700;
     color: #D82D89;
